@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://github.com/rulerzz](https://github.com/rulerzz)
 
-- 💬 Ask me about **Spring, Angualar, Node.js, PHP, C++, C**
+- 💬 Ask me about **Spring, Angular, Node.js, PHP, C++, C**
 
 - 📫 How to reach me **may.ghz.conan@gmail.com**
 
