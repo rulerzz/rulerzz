@@ -27,6 +27,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+ ### 🔭 I’m currently working on
+- Siemens Valve Panorama (Aug 2022 ~ Present)
+- Microservices Architecture
+  
+ ### 🌱 I’m currently learning
+- Languages: Python
+- Topics: Artificial Intelligence and Neural Networks
+  
+### 👯 I’m looking to collaborate on
+- [**Spring Boot**](https://spring.io)
+- Mentorship for programmers
+  - [**Frontend**]
+  - [**Backend**]
+  - [**FullStack Development**]
+  - [**Data Science**]
 
 <a href="https://codepen.io/regle_ici" target="blank"><img align="center" src="https://user-images.githubusercontent.com/11574887/215274979-aad2d911-e999-4fbf-a05e-77cba856828e.png" alt="regle_ici" height="30" width="40" /></a>
 <a href="https://twitter.com/mayankapdi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/11574887/215275053-a25f1e8a-b6f6-4075-afc1-3b6cdbdc6e02.png" alt="mayankapdi" height="30" width="40" /></a>
